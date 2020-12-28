@@ -4,4 +4,5 @@ C2) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Op
 C3) Structuring Machine Learning Projects
 C4) Convolutional Neural Networks
 C5) Sequence Models
+
 I suggest you use this for reference only and try to solve the notebooks yourself.
